@@ -252,7 +252,7 @@ document.getElementById('all-books-link').addEventListener('click', function (e)
 document.getElementById("logout").addEventListener('click', function(e) {
 e.preventDefault()
 
-window.location.href = "/FORMPRO/login.html"
+window.location.href = "login.html"
 })
 
 
